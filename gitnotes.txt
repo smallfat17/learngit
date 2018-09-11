@@ -15,4 +15,5 @@ HEAD指向的版本就是当前版本，因此，Git允许我们在版本的历�
 若工作区的乱改内容已经使用add添加到暂存区，用 git reset HEAD filename 使修改回退到工作区状态，再使用上述方法清楚工作区修改即可
 若已经commit，使用 git reset --hard commit_id 命令回退版本
 
+删除版本库文件 ： git rm filename
 

@@ -4,4 +4,4 @@ Add a new line for test.
 Another new line for test.
 Git tracks changes.
 Creating a new baranch named dev.
-Creating new line for feature1 merge test.
+Creating a new branch is quick and simple.
